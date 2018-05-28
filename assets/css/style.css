@@ -1,0 +1,63 @@
+
+#one{
+	background: black;
+	color: white;
+	font-size: 35px;
+	align-content: center;
+}
+#one:hover{
+	background: blue;
+	color: black;
+	font-size: 35px;
+	align-content: center;
+	
+	
+}
+
+
+#ss{
+	color: black;
+	font-size: 20px;
+
+}
+
+#butOne{
+	background: black;
+	color: yellow;
+	font-size: 20px;
+
+}
+#butOne:hover{
+	background: blue;
+	color: red;
+}
+
+#demo {
+	color: red;
+	font-size: 25px;
+
+}
+
+#butTwo{
+	background: black;
+	color: yellow;
+	font-size: 20px;
+
+
+}
+#butTwo:hover{
+	background: blue;
+	color: red;
+
+}
+
+
+
+#demoTwo{
+	color: blue;
+	font-size: 25px;
+
+}
+
+
+
